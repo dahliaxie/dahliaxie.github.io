@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/dahliaxie.github.io/static/css/main.41f1ea72.css",
-    "main.js": "/dahliaxie.github.io/static/js/main.963d8e82.js",
+    "main.css": "/dahliaxie.github.io/static/css/main.23669ed5.css",
+    "main.js": "/dahliaxie.github.io/static/js/main.dd26cf2f.js",
     "static/js/787.28cb0dcd.chunk.js": "/dahliaxie.github.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/fortnite-milady.png": "/dahliaxie.github.io/static/media/fortnite-milady.b568814337bc76cd881c.png",
-    "static/media/sauerkraut.PNG": "/dahliaxie.github.io/static/media/sauerkraut.160f84b1fd361db86314.PNG",
     "static/media/iphone.jpg": "/dahliaxie.github.io/static/media/iphone.5b02196ef0c5ae74aa14.jpg",
     "static/media/enemy.png": "/dahliaxie.github.io/static/media/enemy.5d9b67819cd9d74fbf83.png",
     "static/media/angels.png": "/dahliaxie.github.io/static/media/angels.02ff57bbc57720766bdb.png",
@@ -32,12 +31,12 @@
     "static/media/TapGrid.png": "/dahliaxie.github.io/static/media/TapGrid.9999a81d520c0152dd51.png",
     "static/media/seattletimes.jpg": "/dahliaxie.github.io/static/media/seattletimes.36f5176767880234d821.jpg",
     "index.html": "/dahliaxie.github.io/index.html",
-    "main.41f1ea72.css.map": "/dahliaxie.github.io/static/css/main.41f1ea72.css.map",
-    "main.963d8e82.js.map": "/dahliaxie.github.io/static/js/main.963d8e82.js.map",
+    "main.23669ed5.css.map": "/dahliaxie.github.io/static/css/main.23669ed5.css.map",
+    "main.dd26cf2f.js.map": "/dahliaxie.github.io/static/js/main.dd26cf2f.js.map",
     "787.28cb0dcd.chunk.js.map": "/dahliaxie.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41f1ea72.css",
-    "static/js/main.963d8e82.js"
+    "static/css/main.23669ed5.css",
+    "static/js/main.dd26cf2f.js"
   ]
 }
